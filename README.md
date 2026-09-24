@@ -4,19 +4,19 @@ Hello! 👋
 
 I'm **Mirian Ukeje**, a Software Development student at **Brigham Young University–Idaho** with a passion for building user-friendly web applications and creating meaningful digital experiences. I enjoy combining creativity with technology through front-end development, UI/UX design, and problem-solving.
 
-## 👩🏽‍💻 About Me
+## About Me
 
-- 🎓 I'm a Software Development student at Brigham Young University–Idaho.
-- 🌱 I'm currently expanding my knowledge of React, Node.js, SQL, APIs, and full-stack development.
-- 🎨 I enjoy designing intuitive and visually engaging user interfaces using Figma.
-- 💡 I'm passionate about building accessible, responsive, and user-centered web applications.
-- 🚀 My goal is to become a software engineer who creates technology that solves real-world problems.
-- 💬 Ask me about HTML, CSS, JavaScript, responsive web design, Git, GitHub, or UI/UX design.
+- I'm a Software Development student at Brigham Young University–Idaho.
+- I'm currently expanding my knowledge of React, Node.js, SQL, APIs, and full-stack development.
+- I enjoy designing intuitive and visually engaging user interfaces using Figma.
+- I'm passionate about building accessible, responsive, and user-centered web applications.
+- My goal is to become a software engineer who creates technology that solves real-world problems.
+- Ask me about HTML, CSS, JavaScript, responsive web design, Git, GitHub, or UI/UX design.
 
 ## 🛠️ Technologies & Tools
 
 ### Languages
-- HTML5
+- HTML
 - CSS3
 - JavaScript
 - Python
@@ -34,25 +34,25 @@ I'm **Mirian Ukeje**, a Software Development student at **Brigham Young Universi
 - Figma
 - Vercel
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🌐 Personal Portfolio
+### Personal Portfolio
 A responsive portfolio website showcasing my technical skills, projects, and professional background. Designed, developed, and deployed on Vercel using modern web technologies.
 
-### 🛍️ Hand Crafted Haven *(Team Project)*
+### Hand Crafted Haven *(Team Project)*
 A collaborative website for a handcrafted products business. I was responsible for designing the user interface (UI), creating a clean, intuitive, and responsive user experience. Working alongside my teammates, we transformed the design into a fully functional website while collaborating through Git and GitHub.
 
-### 🏢 Chamber of Commerce Website
+### Chamber of Commerce Website
 A responsive business directory website featuring local events, weather information, member listings, and community resources. The project emphasizes accessibility, responsive design, and user-friendly navigation.
 
-## 📈 Currently Working On
+## Currently Working On
 
 - Strengthening my JavaScript and React skills
 - Building responsive and accessible web applications
 - Expanding my software engineering portfolio
 - Learning backend development with Node.js
 
-## 📫 Let's Connect
+## Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/mirian-ukeje-9122311a0
 - GitHub: https://github.com/mirianukeje
@@ -83,4 +83,4 @@ A responsive business directory website featuring local events, weather informat
 
 ---
 
-⭐ Thanks for visiting my GitHub! I'm always learning, building, and looking for opportunities to grow as a software developer. Feel free to explore my repositories and connect with me!
+Thanks for visiting my GitHub! I'm always learning, building, and looking for opportunities to grow as a software developer. Feel free to explore my repositories and connect with me!
