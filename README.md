@@ -2,7 +2,7 @@
 
 Hello! 👋
 
-I'm **Mirian Ukeje**, a Software Development student at **Brigham Young University–Idaho** with a passion for building user-friendly web applications and creating meaningful digital experiences. I enjoy combining creativity with technology through front-end development, UI/UX design, and problem-solving.
+I'm Mirian Ukeje, a Software Development student at Brigham Young University–Idaho with a passion for building user-friendly web applications and creating meaningful digital experiences. I enjoy combining creativity with technology through front-end development, UI/UX design, and problem-solving.
 
 ## About Me
 
