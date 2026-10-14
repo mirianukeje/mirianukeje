@@ -17,7 +17,7 @@ I'm Mirian Ukeje, a Software Development student at Brigham Young University–I
 
 ### Languages
 - HTML
-- CSS3
+- CSS
 - JavaScript
 - Python
 - SQL
