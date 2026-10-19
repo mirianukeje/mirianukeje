@@ -64,15 +64,8 @@ I enjoy designing intuitive interfaces, creating engaging user experiences, and 
 
 ## Featured Projects
 
-### 01. Personal Portfolio
 
-A responsive portfolio website showcasing my technical skills, projects, and professional background. Designed, developed, and deployed on Vercel using modern web technologies.
-
-**Focus:** Frontend development, responsive design, and personal branding.
-
-[Explore my repositories]\([https://github.com/mirianukeje/my-portfolio](https://github.com/mirianukeje/my-portfolio))
-
-### 02. Hand Crafted Haven
+### 01. Hand Crafted Haven
 
 **Team Project**
 
@@ -82,7 +75,7 @@ A collaborative website for a handcrafted products business. I was responsible f
 
 [Explore my repositories]\([https://github.com/mirianukeje/Handcrafted-Haven](https://github.com/mirianukeje/Handcrafted-Haven))
 
-### 03. Mood Journal
+### 02. Mood Journal
 
 A digital mood-tracking application designed to help users record their emotions, reflect on their daily experiences, and identify patterns in their moods over time. The project focuses on creating a calm, intuitive, and user-friendly space for personal reflection.
 
@@ -90,7 +83,7 @@ A digital mood-tracking application designed to help users record their emotions
 
 [Explore my repositories]\([https://github.com/mirianukeje/mood-journal-new](https://github.com/mirianukeje/mood-journal-new))
 
-### 04. Eve | Jewelry Website
+### 03. Eve | Jewelry Website
 
 A jewelry e-commerce website in development, designed to showcase jewelry pieces through an elegant and visually engaging online experience. The project explores the intersection of frontend development, thoughtful interface design, and digital shopping experiences.
 
