@@ -113,9 +113,9 @@ Whether I'm working on an interface, developing an application, or writing an ar
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F4D9DF?style=for-the-badge&logo=linkedin&logoColor=49363C)](https://www.linkedin.com/in/mirian-ukeje-9122311a0)
-[![Behance](https://img.shields.io/badge/Behance-F6E7A1?style=for-the-badge&logo=behance&logoColor=333333)](https://www.behance.net/mirianukeje/)
-[![GitHub](https://img.shields.io/badge/GitHub-FFFCF4?style=for-the-badge&logo=github&logoColor=333333)](https://github.com/mirianukeje)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E263F?style=for-the-badge&logo=linkedin&logoColor=FFFCF4)](https://www.linkedin.com/in/mirian-ukeje-9122311a0)
+[![Behance](https://img.shields.io/badge/Behance-DDBB72?style=for-the-badge&logo=behance&logoColor=333333)](https://www.behance.net/mirianukeje/)
+[![Medium](https://img.shields.io/badge/Medium-F4D9DF?style=for-the-badge&logo=medium&logoColor=49363C)](https://medium.com/@U.Mirian)
 
 <br/>
 
