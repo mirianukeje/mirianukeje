@@ -70,7 +70,7 @@ A responsive portfolio website showcasing my technical skills, projects, and pro
 
 **Focus:** Frontend development, responsive design, and personal branding.
 
-[Explore my repositories](https://github.com/mirianukeje?tab=repositories)
+[Explore my repositories]\([https://github.com/mirianukeje/my-portfolio](https://github.com/mirianukeje/my-portfolio))
 
 ### 02. Hand Crafted Haven
 
@@ -80,15 +80,23 @@ A collaborative website for a handcrafted products business. I was responsible f
 
 **Focus:** UI design, responsive layouts, teamwork, and version control.
 
-[Explore my repositories](https://github.com/mirianukeje?tab=repositories)
+[Explore my repositories]\([https://github.com/mirianukeje/Handcrafted-Haven](https://github.com/mirianukeje/Handcrafted-Haven))
 
-### 03. Chamber of Commerce Website
+### 03. Mood Journal
 
-A responsive business directory website featuring local events, weather information, member listings, and community resources. The project emphasizes accessibility, responsive design, and user-friendly navigation.
+A digital mood-tracking application designed to help users record their emotions, reflect on their daily experiences, and identify patterns in their moods over time. The project focuses on creating a calm, intuitive, and user-friendly space for personal reflection.
 
-**Focus:** Frontend development, accessibility, and responsive web design.
+**Focus:** Frontend development, interactive user interfaces, responsive design, and user experience.
 
-[Explore my repositories](https://github.com/mirianukeje?tab=repositories)
+[Explore my repositories]\([https://github.com/mirianukeje/mood-journal-new](https://github.com/mirianukeje/mood-journal-new))
+
+### 04. Eve | Jewelry Website
+
+A jewelry e-commerce website in development, designed to showcase jewelry pieces through an elegant and visually engaging online experience. The project explores the intersection of frontend development, thoughtful interface design, and digital shopping experiences.
+
+**Focus:** Frontend development, UI/UX design, responsive web design, and e-commerce.
+
+[Explore my repositories]\([https://github.com/mirianukeje/eve](https://github.com/mirianukeje/eve)
 
 ---
 
