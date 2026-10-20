@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="./flower-wide.png" alt="Flower illustration" width="48%" />
-  <img src="./developer-info.svg" alt="Developer information grid" width="48%" />
+  <img src="./developer-info.svg" alt="Developer information card" width="48%" />
 </p>
 
 
