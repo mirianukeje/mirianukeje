@@ -18,8 +18,8 @@
 
 
 <p align="center">
-  <img src="flower.png" alt="Flower illustration" width="48%" height="220" />
-  <img src="developer-info.svg" alt="Developer information grid" width="48%" height="220" />
+  <img src="./flower-wide.png" alt="Flower illustration" width="48%" />
+  <img src="./developer-info.svg" alt="Developer information grid" width="48%" />
 </p>
 
 
