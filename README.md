@@ -7,20 +7,37 @@
 
 *Building thoughtful digital experiences through design and code.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-F4D9DF?style=for-the-badge&logo=linkedin&logoColor=49363C)](https://www.linkedin.com/in/mirian-ukeje-9122311a0)
-[![Behance](https://img.shields.io/badge/Behance-F6E7A1?style=for-the-badge&logo=behance&logoColor=333333)](https://www.behance.net/mirianukeje/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6E263F?style=for-the-badge&logo=linkedin&logoColor=FFFCF4)](https://www.linkedin.com/in/mirian-ukeje-9122311a0)
+[![Behance](https://img.shields.io/badge/Behance-DDBB72?style=for-the-badge&logo=behance&logoColor=333333)](https://www.behance.net/mirianukeje/)
 
+</div>
+
+---
+
+## A Little About My World
+
+
+<div align="center">
+  <img src="./flower.png" width="48%" height="260" alt="My flower" />
+  <img src="./developer-info.svg" width="48%" height="260" alt="Developer information card" />
+</div>
+
+
+### My GitHub Activity
+
+<div align="center">
+  <img src="./contribution-heatmap.svg" width="100%" alt="GitHub contribution heatmap" />
 </div>
 
 ---
 
 ## About Me
 
-I'm Mirian Ukeje, a Software Development student at Brigham Young University–Idaho with a passion for front-end development and UI/UX design.
+I'm Mirian Ukeje, a Software Development student at Brigham Young University-Idaho with a passion for front-end development and UI/UX design.
 
 I enjoy designing intuitive interfaces, creating engaging user experiences, and bringing ideas to life through code. I'm continually expanding my software development skills and exploring ways to combine creativity and technology to build meaningful digital experiences.
 
-- Studying Software Development at BYU–Idaho
+- Studying Software Development at BYU-Idaho
 - Expanding my knowledge of React, Node.js, SQL, APIs, and full-stack development
 - Designing intuitive and visually engaging user interfaces using Figma
 - Building accessible, responsive, and user-centered web applications
@@ -35,44 +52,75 @@ I enjoy designing intuitive interfaces, creating engaging user experiences, and 
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/HTML5-F6E7A1?style=flat-square&logo=html5&logoColor=333333" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-F4D9DF?style=flat-square&logo=css3&logoColor=333333" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F6E7A1?style=flat-square&logo=javascript&logoColor=333333" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Python-F4D9DF?style=flat-square&logo=python&logoColor=333333" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-F6E7A1?style=flat-square&logo=mysql&logoColor=333333" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML5-6E263F?style=flat-square&logo=html5&logoColor=FFFCF4" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-FFFCF4?style=flat-square&logo=css3&logoColor=6E263F" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-DDBB72?style=flat-square&logo=javascript&logoColor=333333" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-F4D9DF?style=flat-square&logo=python&logoColor=49363C" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-6E263F?style=flat-square&logo=mysql&logoColor=FFFCF4" alt="SQL" />
 </p>
 
 ### Frameworks & Libraries
 
 <p>
-  <img src="https://img.shields.io/badge/React-F4D9DF?style=flat-square&logo=react&logoColor=333333" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-F6E7A1?style=flat-square&logo=tailwindcss&logoColor=333333" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/Node.js-F4D9DF?style=flat-square&logo=nodedotjs&logoColor=333333" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/React-FFFCF4?style=flat-square&logo=react&logoColor=6E263F" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-DDBB72?style=flat-square&logo=tailwindcss&logoColor=333333" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-6E263F?style=flat-square&logo=nodedotjs&logoColor=FFFCF4" alt="Node.js" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://img.shields.io/badge/Git-F6E7A1?style=flat-square&logo=git&logoColor=333333" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-F4D9DF?style=flat-square&logo=github&logoColor=333333" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-F6E7A1?style=flat-square&logo=visualstudiocode&logoColor=333333" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Figma-F4D9DF?style=flat-square&logo=figma&logoColor=333333" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Vercel-F6E7A1?style=flat-square&logo=vercel&logoColor=333333" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Git-DDBB72?style=flat-square&logo=git&logoColor=333333" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-6E263F?style=flat-square&logo=github&logoColor=FFFCF4" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-FFFCF4?style=flat-square&logo=visualstudiocode&logoColor=6E263F" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F4D9DF?style=flat-square&logo=figma&logoColor=49363C" alt="Figma" />
+  <img src="https://img.shields.io/badge/Vercel-DDBB72?style=flat-square&logo=vercel&logoColor=333333" alt="Vercel" />
 </p>
 
 ---
 
 ## Featured Projects
 
+<<<<<<< HEAD
 
 ### 01. Hand Crafted Haven
+=======
+### 01. Eve | Jewelry Website
+
+A jewelry e-commerce website in development, designed to showcase jewelry pieces through an elegant and visually engaging online experience. The project explores the intersection of frontend development, thoughtful interface design, and digital shopping experiences.
+
+**Focus:** Frontend development, UI/UX design, responsive web design, and e-commerce.
+
+**Status:** In development.
+
+[View Project Repository](https://github.com/mirianukeje/eve)
+
+### 02. Personal Portfolio
+
+A responsive portfolio website showcasing my technical skills, projects, and professional background. Designed, developed, and deployed on Vercel using modern web technologies.
+
+**Focus:** Frontend development, responsive design, and personal branding.
+
+[View Project Repository](https://github.com/mirianukeje/my-portfolio)
+
+### 03. Mood Journal
+
+A digital mood-tracking application designed to help users record their emotions, reflect on their daily experiences, and identify patterns in their moods over time. The project focuses on creating a calm, intuitive, and user-friendly space for personal reflection.
+
+**Focus:** Frontend development, interactive user interfaces, responsive design, and user experience.
+
+[View Project Repository](https://github.com/mirianukeje/mood-journal-new)
+
+### 04. Hand Crafted Haven
+>>>>>>> c4d33ff (Update GitHub profile layout)
 
 **Team Project**
 
-A collaborative website for a handcrafted products business. I was responsible for designing the user interface, creating a clean, intuitive, and responsive user experience. Working alongside my teammates, we transformed the design into a functional website while collaborating through Git and GitHub.
+A collaborative website for a handcrafted products business. I contributed to the user interface design, focusing on a clean, intuitive, and responsive user experience. I worked alongside my teammates to transform the design into a functional website while collaborating through Git and GitHub.
 
 **Focus:** UI design, responsive layouts, teamwork, and version control.
 
+<<<<<<< HEAD
 [Explore my repositories]\([https://github.com/mirianukeje/Handcrafted-Haven](https://github.com/mirianukeje/Handcrafted-Haven))
 
 ### 02. Mood Journal
@@ -90,6 +138,9 @@ A jewelry e-commerce website in development, designed to showcase jewelry pieces
 **Focus:** Frontend development, UI/UX design, responsive web design, and e-commerce.
 
 [Explore my repositories]\([https://github.com/mirianukeje/eve](https://github.com/mirianukeje/eve)
+=======
+[View Project Repository](https://github.com/mirianukeje/Handcrafted-Haven)
+>>>>>>> c4d33ff (Update GitHub profile layout)
 
 ---
 

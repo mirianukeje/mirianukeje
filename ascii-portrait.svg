@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="480" viewBox="0 0 600 480">
+<title>Mirian's animated ASCII flower</title>
+<rect width="600" height="480" rx="12" fill="#6E263F"/>
+<text x="24" y="30" fill="#DDBB72" font-family="monospace" font-size="13">mirian@github:~$ grow</text>
+<line x1="24" y1="43" x2="576" y2="43" stroke="#DDBB72" stroke-opacity="0.6"/>
+<clipPath id="flower-line-0" clipPathUnits="userSpaceOnUse"><rect x="160" y="61" width="0" height="19"><animate attributeName="width" from="0" to="195.5" dur="0.5s" begin="0.00s" fill="freeze"/></rect></clipPath>
+<text x="160" y="75" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-0)">                   .-._</text>
+<clipPath id="flower-line-1" clipPathUnits="userSpaceOnUse"><rect x="160" y="78" width="0" height="19"><animate attributeName="width" from="0" to="221.0" dur="0.5s" begin="0.12s" fill="freeze"/></rect></clipPath>
+<text x="160" y="92" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-1)">              .-.&#x27;     `-.</text>
+<clipPath id="flower-line-2" clipPathUnits="userSpaceOnUse"><rect x="160" y="95" width="0" height="19"><animate attributeName="width" from="0" to="246.5" dur="0.5s" begin="0.24s" fill="freeze"/></rect></clipPath>
+<text x="160" y="109" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-2)">            .&#x27;   .-&#x27;&#x27;&#x27;-.   `.</text>
+<clipPath id="flower-line-3" clipPathUnits="userSpaceOnUse"><rect x="160" y="112" width="0" height="19"><animate attributeName="width" from="0" to="255.0" dur="0.5s" begin="0.36s" fill="freeze"/></rect></clipPath>
+<text x="160" y="126" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-3)">           /   .&#x27;  .-.  `.   \</text>
+<clipPath id="flower-line-4" clipPathUnits="userSpaceOnUse"><rect x="160" y="129" width="0" height="19"><animate attributeName="width" from="0" to="263.5" dur="0.5s" begin="0.48s" fill="freeze"/></rect></clipPath>
+<text x="160" y="143" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-4)">          ;   /   (   )   \   ;</text>
+<clipPath id="flower-line-5" clipPathUnits="userSpaceOnUse"><rect x="160" y="146" width="0" height="19"><animate attributeName="width" from="0" to="263.5" dur="0.5s" begin="0.60s" fill="freeze"/></rect></clipPath>
+<text x="160" y="160" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-5)">          |  ;  .-`---&#x27;-.  ;  |</text>
+<clipPath id="flower-line-6" clipPathUnits="userSpaceOnUse"><rect x="160" y="163" width="0" height="19"><animate attributeName="width" from="0" to="263.5" dur="0.5s" begin="0.72s" fill="freeze"/></rect></clipPath>
+<text x="160" y="177" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-6)">          ;  | /  .---.  \ |  ;</text>
+<clipPath id="flower-line-7" clipPathUnits="userSpaceOnUse"><rect x="160" y="180" width="0" height="19"><animate attributeName="width" from="0" to="255.0" dur="0.5s" begin="0.84s" fill="freeze"/></rect></clipPath>
+<text x="160" y="194" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-7)">           \  ; | (   ) | ;  /</text>
+<clipPath id="flower-line-8" clipPathUnits="userSpaceOnUse"><rect x="160" y="197" width="0" height="19"><animate attributeName="width" from="0" to="246.5" dur="0.5s" begin="0.96s" fill="freeze"/></rect></clipPath>
+<text x="160" y="211" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-8)">            `.\  `-._.-&#x27;  /.&#x27;</text>
+<clipPath id="flower-line-9" clipPathUnits="userSpaceOnUse"><rect x="160" y="214" width="0" height="19"><animate attributeName="width" from="0" to="221.0" dur="0.5s" begin="1.08s" fill="freeze"/></rect></clipPath>
+<text x="160" y="228" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-9)">              `-.  ___ .-&#x27;</text>
+<clipPath id="flower-line-10" clipPathUnits="userSpaceOnUse"><rect x="160" y="231" width="0" height="19"><animate attributeName="width" from="0" to="204.0" dur="0.5s" begin="1.20s" fill="freeze"/></rect></clipPath>
+<text x="160" y="245" xml:space="preserve" font-family="monospace" font-size="14" fill="#F4D9DF" clip-path="url(#flower-line-10)">                 `-._.-&#x27;</text>
+<clipPath id="flower-line-11" clipPathUnits="userSpaceOnUse"><rect x="160" y="248" width="0" height="19"><animate attributeName="width" from="0" to="178.5" dur="0.5s" begin="1.32s" fill="freeze"/></rect></clipPath>
+<text x="160" y="262" xml:space="preserve" font-family="monospace" font-size="14" fill="#DDBB72" clip-path="url(#flower-line-11)">                    |</text>
+<clipPath id="flower-line-12" clipPathUnits="userSpaceOnUse"><rect x="160" y="265" width="0" height="19"><animate attributeName="width" from="0" to="238.0" dur="0.5s" begin="1.44s" fill="freeze"/></rect></clipPath>
+<text x="160" y="279" xml:space="preserve" font-family="monospace" font-size="14" fill="#DDBB72" clip-path="url(#flower-line-12)">             _..---/ \---.._</text>
+<clipPath id="flower-line-13" clipPathUnits="userSpaceOnUse"><rect x="160" y="282" width="0" height="19"><animate attributeName="width" from="0" to="280.5" dur="0.5s" begin="1.56s" fill="freeze"/></rect></clipPath>
+<text x="160" y="296" xml:space="preserve" font-family="monospace" font-size="14" fill="#DDBB72" clip-path="url(#flower-line-13)">          .-&#x27;      /   \      `-.</text>
+<clipPath id="flower-line-14" clipPathUnits="userSpaceOnUse"><rect x="160" y="299" width="0" height="19"><animate attributeName="width" from="0" to="289.0" dur="0.5s" begin="1.68s" fill="freeze"/></rect></clipPath>
+<text x="160" y="313" xml:space="preserve" font-family="monospace" font-size="14" fill="#DDBB72" clip-path="url(#flower-line-14)">         /        /     \        \</text>
+<clipPath id="flower-line-15" clipPathUnits="userSpaceOnUse"><rect x="160" y="316" width="0" height="19"><animate attributeName="width" from="0" to="297.5" dur="0.5s" begin="1.80s" fill="freeze"/></rect></clipPath>
+<text x="160" y="330" xml:space="preserve" font-family="monospace" font-size="14" fill="#DDBB72" clip-path="url(#flower-line-15)">        /   .----&#x27;       `----.   \</text>
+<clipPath id="flower-line-16" clipPathUnits="userSpaceOnUse"><rect x="160" y="333" width="0" height="19"><animate attributeName="width" from="0" to="297.5" dur="0.5s" begin="1.92s" fill="freeze"/></rect></clipPath>
+<text x="160" y="347" xml:space="preserve" font-family="monospace" font-size="14" fill="#DDBB72" clip-path="url(#flower-line-16)">        \  /                   \  /</text>
+<clipPath id="flower-line-17" clipPathUnits="userSpaceOnUse"><rect x="160" y="350" width="0" height="19"><animate attributeName="width" from="0" to="289.0" dur="0.5s" begin="2.04s" fill="freeze"/></rect></clipPath>
+<text x="160" y="364" xml:space="preserve" font-family="monospace" font-size="14" fill="#DDBB72" clip-path="url(#flower-line-17)">         \/                     \/</text>
+<clipPath id="flower-line-18" clipPathUnits="userSpaceOnUse"><rect x="160" y="367" width="0" height="19"><animate attributeName="width" from="0" to="178.5" dur="0.5s" begin="2.16s" fill="freeze"/></rect></clipPath>
+<text x="160" y="381" xml:space="preserve" font-family="monospace" font-size="14" fill="#FFFCF4" clip-path="url(#flower-line-18)">                    |</text>
+<clipPath id="flower-line-19" clipPathUnits="userSpaceOnUse"><rect x="160" y="384" width="0" height="19"><animate attributeName="width" from="0" to="178.5" dur="0.5s" begin="2.28s" fill="freeze"/></rect></clipPath>
+<text x="160" y="398" xml:space="preserve" font-family="monospace" font-size="14" fill="#FFFCF4" clip-path="url(#flower-line-19)">                    |</text>
+<clipPath id="flower-line-20" clipPathUnits="userSpaceOnUse"><rect x="160" y="401" width="0" height="19"><animate attributeName="width" from="0" to="187.0" dur="0.5s" begin="2.40s" fill="freeze"/></rect></clipPath>
+<text x="160" y="415" xml:space="preserve" font-family="monospace" font-size="14" fill="#FFFCF4" clip-path="url(#flower-line-20)">                   / \</text>
+<clipPath id="flower-line-21" clipPathUnits="userSpaceOnUse"><rect x="160" y="418" width="0" height="19"><animate attributeName="width" from="0" to="195.5" dur="0.5s" begin="2.52s" fill="freeze"/></rect></clipPath>
+<text x="160" y="432" xml:space="preserve" font-family="monospace" font-size="14" fill="#FFFCF4" clip-path="url(#flower-line-21)">                  /   \</text>
+<clipPath id="flower-line-22" clipPathUnits="userSpaceOnUse"><rect x="160" y="435" width="0" height="19"><animate attributeName="width" from="0" to="204.0" dur="0.5s" begin="2.64s" fill="freeze"/></rect></clipPath>
+<text x="160" y="449" xml:space="preserve" font-family="monospace" font-size="14" fill="#FFFCF4" clip-path="url(#flower-line-22)">                 /     \</text>
+<clipPath id="flower-line-23" clipPathUnits="userSpaceOnUse"><rect x="160" y="452" width="0" height="19"><animate attributeName="width" from="0" to="212.5" dur="0.5s" begin="2.76s" fill="freeze"/></rect></clipPath>
+<text x="160" y="466" xml:space="preserve" font-family="monospace" font-size="14" fill="#FFFCF4" clip-path="url(#flower-line-23)">                /       \</text>
+<clipPath id="flower-line-24" clipPathUnits="userSpaceOnUse"><rect x="160" y="469" width="0" height="19"><animate attributeName="width" from="0" to="221.0" dur="0.5s" begin="2.88s" fill="freeze"/></rect></clipPath>
+<text x="160" y="483" xml:space="preserve" font-family="monospace" font-size="14" fill="#FFFCF4" clip-path="url(#flower-line-24)">               /_________\</text>
+<line x1="24" y1="443" x2="576" y2="443" stroke="#DDBB72" stroke-opacity="0.6"/>
+<text x="24" y="463" fill="#FFFCF4" font-family="monospace" font-size="11">[ creating beyond the surface ]</text>
+<text x="576" y="463" fill="#DDBB72" font-family="monospace" font-size="11" text-anchor="end">M.U.</text>
+</svg>

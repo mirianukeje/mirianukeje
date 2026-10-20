@@ -1,0 +1,34 @@
+
+name: Refresh GitHub Profile
+
+on:
+  schedule:
+    - cron: "17 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-profile:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Generate contribution heatmap
+        run: python scripts/make_contribution_graph.py
+
+      - name: Commit updated heatmap
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add contribution-heatmap.svg
+          git diff --cached --quiet || git commit -m "Refresh contribution heatmap"
+          git push
