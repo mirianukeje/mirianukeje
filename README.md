@@ -17,10 +17,10 @@
 ## A Little About My World
 
 
-<div align="center">
-  <img src="./flower.png" width="48%" height="260" alt="My flower" />
-  <img src="./developer-info.svg" width="48%" height="260" alt="Developer information card" />
-</div>
+<p align="center">
+  <img src="flower.png" alt="Flower illustration" width="48%" height="220" />
+  <img src="developer-info.svg" alt="Developer information grid" width="48%" height="220" />
+</p>
 
 
 ### My GitHub Activity
