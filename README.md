@@ -81,11 +81,17 @@ I enjoy designing intuitive interfaces, creating engaging user experiences, and 
 
 ## Featured Projects
 
-<<<<<<< HEAD
-
 ### 01. Hand Crafted Haven
-=======
-### 01. Eve | Jewelry Website
+
+**Team Project**
+
+A collaborative website for a handcrafted products business. I contributed to the user interface design, focusing on a clean, intuitive, and responsive user experience. I worked alongside my teammates to transform the design into a functional website while collaborating through Git and GitHub.
+
+**Focus:** UI design, responsive layouts, teamwork, and version control.
+
+[View Project Repository](https://github.com/mirianukeje/Handcrafted-Haven)
+
+### 02. Eve | Jewelry Website
 
 A jewelry e-commerce website in development, designed to showcase jewelry pieces through an elegant and visually engaging online experience. The project explores the intersection of frontend development, thoughtful interface design, and digital shopping experiences.
 
@@ -95,7 +101,7 @@ A jewelry e-commerce website in development, designed to showcase jewelry pieces
 
 [View Project Repository](https://github.com/mirianukeje/eve)
 
-### 02. Personal Portfolio
+### 03. Personal Portfolio
 
 A responsive portfolio website showcasing my technical skills, projects, and professional background. Designed, developed, and deployed on Vercel using modern web technologies.
 
@@ -103,7 +109,7 @@ A responsive portfolio website showcasing my technical skills, projects, and pro
 
 [View Project Repository](https://github.com/mirianukeje/my-portfolio)
 
-### 03. Mood Journal
+### 04. Mood Journal
 
 A digital mood-tracking application designed to help users record their emotions, reflect on their daily experiences, and identify patterns in their moods over time. The project focuses on creating a calm, intuitive, and user-friendly space for personal reflection.
 
@@ -111,36 +117,6 @@ A digital mood-tracking application designed to help users record their emotions
 
 [View Project Repository](https://github.com/mirianukeje/mood-journal-new)
 
-### 04. Hand Crafted Haven
->>>>>>> c4d33ff (Update GitHub profile layout)
-
-**Team Project**
-
-A collaborative website for a handcrafted products business. I contributed to the user interface design, focusing on a clean, intuitive, and responsive user experience. I worked alongside my teammates to transform the design into a functional website while collaborating through Git and GitHub.
-
-**Focus:** UI design, responsive layouts, teamwork, and version control.
-
-<<<<<<< HEAD
-[Explore my repositories]\([https://github.com/mirianukeje/Handcrafted-Haven](https://github.com/mirianukeje/Handcrafted-Haven))
-
-### 02. Mood Journal
-
-A digital mood-tracking application designed to help users record their emotions, reflect on their daily experiences, and identify patterns in their moods over time. The project focuses on creating a calm, intuitive, and user-friendly space for personal reflection.
-
-**Focus:** Frontend development, interactive user interfaces, responsive design, and user experience.
-
-[Explore my repositories]\([https://github.com/mirianukeje/mood-journal-new](https://github.com/mirianukeje/mood-journal-new))
-
-### 03. Eve | Jewelry Website
-
-A jewelry e-commerce website in development, designed to showcase jewelry pieces through an elegant and visually engaging online experience. The project explores the intersection of frontend development, thoughtful interface design, and digital shopping experiences.
-
-**Focus:** Frontend development, UI/UX design, responsive web design, and e-commerce.
-
-[Explore my repositories]\([https://github.com/mirianukeje/eve](https://github.com/mirianukeje/eve)
-=======
-[View Project Repository](https://github.com/mirianukeje/Handcrafted-Haven)
->>>>>>> c4d33ff (Update GitHub profile layout)
 
 ---
 
